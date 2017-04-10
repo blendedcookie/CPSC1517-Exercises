@@ -1,6 +1,7 @@
-﻿using System;
+﻿using FSISSystem.SLain.Data;
+using System;
 using System.Collections.Generic;
-
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace FSISSystem.SLain.DAL
 {
-    internal class FSISContext:DbContext
+    internal class FSISContext: DbContext
     {
         public FSISContext() : base("FSISdb")
         {
