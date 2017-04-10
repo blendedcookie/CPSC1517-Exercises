@@ -1,0 +1,5 @@
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\Entities\bin\Debug\Entities.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\Entities\bin\Debug\Entities.pdb
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\Entities\obj\Debug\Entities.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "BigFootWebsite", "..\BigFootWebsite", "{04307F03-9BD9-43D2-85E3-C5BAA2B2CC5D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{193088dc-fe91-4cb1-8bdf-3c0c5235b8f5}|FSISSystem.SLain.dll;{6bab4185-cec6-487c-b7b1-d9f788b942b0}|FSISSystem.SLain.Data.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56863"
+		Debug.AspNetCompiler.PhysicalPath = "..\BigFootWebsite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56863\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56863"
+		Release.AspNetCompiler.PhysicalPath = "..\BigFootWebsite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56863\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56863"
+		SlnRelativePath = "..\BigFootWebsite\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSISSystem.SLain", "FSISSystem.SLain\FSISSystem.SLain.csproj", "{193088DC-FE91-4CB1-8BDF-3C0C5235B8F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSISSystem.SLain.Data", "FSISSystem.SLain.Data\FSISSystem.SLain.Data.csproj", "{6BAB4185-CEC6-487C-B7B1-D9F788B942B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04307F03-9BD9-43D2-85E3-C5BAA2B2CC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04307F03-9BD9-43D2-85E3-C5BAA2B2CC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04307F03-9BD9-43D2-85E3-C5BAA2B2CC5D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{04307F03-9BD9-43D2-85E3-C5BAA2B2CC5D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{193088DC-FE91-4CB1-8BDF-3C0C5235B8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193088DC-FE91-4CB1-8BDF-3C0C5235B8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193088DC-FE91-4CB1-8BDF-3C0C5235B8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193088DC-FE91-4CB1-8BDF-3C0C5235B8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BAB4185-CEC6-487C-B7B1-D9F788B942B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BAB4185-CEC6-487C-B7B1-D9F788B942B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BAB4185-CEC6-487C-B7B1-D9F788B942B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BAB4185-CEC6-487C-B7B1-D9F788B942B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal

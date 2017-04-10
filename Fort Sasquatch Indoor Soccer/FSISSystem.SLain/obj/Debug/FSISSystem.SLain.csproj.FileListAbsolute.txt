@@ -1,0 +1,21 @@
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.dll
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.pdb
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.Data.dll
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.Data.pdb
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.dll
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.pdb
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.dll
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.pdb
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.Data.dll
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.Data.pdb
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.csprojResolveAssemblyReference.cache
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.dll
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.pdb
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.pdb
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.Data.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\bin\Debug\FSISSystem.SLain.Data.pdb
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.csprojResolveAssemblyReference.cache
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain\obj\Debug\FSISSystem.SLain.pdb

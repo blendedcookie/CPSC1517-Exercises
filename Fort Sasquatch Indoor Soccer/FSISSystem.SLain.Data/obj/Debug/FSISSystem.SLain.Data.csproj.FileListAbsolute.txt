@@ -1,0 +1,15 @@
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\bin\Debug\FSISSystem.SLain.Data.dll
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\bin\Debug\FSISSystem.SLain.Data.pdb
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.dll
+C:\Users\Sean\Desktop\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.pdb
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\bin\Debug\FSISSystem.SLain.Data.dll
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\bin\Debug\FSISSystem.SLain.Data.pdb
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.csprojResolveAssemblyReference.cache
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.dll
+E:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.pdb
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\bin\Debug\FSISSystem.SLain.Data.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\bin\Debug\FSISSystem.SLain.Data.pdb
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.csprojResolveAssemblyReference.cache
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.dll
+D:\CPSC 1517\Fort Sasquatch Indoor Soccer\FSISSystem.SLain.Data\obj\Debug\FSISSystem.SLain.Data.pdb
