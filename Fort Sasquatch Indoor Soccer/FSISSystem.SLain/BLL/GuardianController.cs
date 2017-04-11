@@ -10,9 +10,9 @@ using System.Data.SqlClient;
 
 namespace FSISSystem.SLain.BLL
 {
-    class GuardianController
+    public class GuardianController
     {
-
+        //get list of guardians
         public List<Guardian> Guardian_List()
         {
 
@@ -20,10 +20,18 @@ namespace FSISSystem.SLain.BLL
             {
                 return context.Guardians.ToList();
             }
+        }
+
+        //find a single guardian based on guardian ID
+        public Guardian Guardian_Find(int guardianid)
+        {
+            using (var context = new FSISContext())
+            {
+                return context.Guardians.Find(guardianid);
+            }
+        }
 
 
 
-        
-        } 
     }
 }
